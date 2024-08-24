@@ -31,3 +31,5 @@ print(list)
 print(min(list))
 print(max(list))
 print(sum(list))
+list[7]=44
+print(list)
