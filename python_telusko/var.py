@@ -39,6 +39,6 @@ print(id(10)) #140720377103176
 print("---------------------------------")
 #In python we cannot make any variable as constant but we can show that the variable is a constant by giving the variable name in all capitals
 PI = 3.14 #we can change the value if we want but when a variable is in all capitals, it means that the programmer is intending to say that the variable is a constant and do not change it
-print(type(PI)) #float datatype
-print(type(a)) #int datatype
-print(type('hello')) #str datatype
+print(type(PI)) #'float' datatype
+print(type(a)) #'int' datatype
+print(type('hello')) #'str' datatype
